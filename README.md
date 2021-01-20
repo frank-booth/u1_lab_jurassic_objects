@@ -1,10 +1,18 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
+# Jurassic Objects Lab
 
-# JavaScript Objects Practice
+![Jurassic Objects](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FhDtZt3aoaTbos%2Fgiphy.gif&f=1&nofb=1)
 
-Create a new file called `js-objects-practice.js`. You'll do all your work in this file. Remember, you can test your work by typing `node js-objects-practice.js` in the terminal.
+## Lab Overview
+In this lab, we'll practice using javascript objects by exploring the world of Jurassic Park!
 
-## Movie Database
+## Getting Started
+  - Fork and Clone this repository
+  - Open in VSCode
+  - Create a new file called `js-objects-practice.js`. You'll do all your work in this file. Remember, you can test your work by typing `node js-objects-practice.js` in the terminal.
+  
+## Lab Instructions
+
+### Movie Database (quick warmup)
 
 Create your own JavaScript object representing your favorite movie.
 
@@ -25,13 +33,17 @@ Create your own JavaScript object representing your favorite movie.
   3. Print the release year
   4. Maybe your favorite movie came with an extended director's cut - write a statement that increases your movie object's duration by 25 minutes
 
-## Hammonds Mines
+### Hammonds Mines
 
-Today we visit Jurassic Park :dragon: to explore the wild world of objects! You have been brought on to manage the dig sites for Dr. John Hammond. No expense has been spared, so let's get to work!
+![Hammond](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Freplygif.net%2Fi%2F1087.gif&f=1&nofb=1)
+
+Today we visit Jurassic Park to explore the wild world of objects! You have been brought on to manage the dig sites for Dr. John Hammond. Spared no expense, so let's get to work!
 
 Copy and paste each of the JavaScript snippets into your JavaScript file.
 
-### Part 1
+![Grant](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F8iWxnwt5p4vD2%2Fgiphy.gif&f=1&nofb=1)
+
+#### Part 1
 ```javascript
 const snakewaterMontana = {
   paleontologist: "Dr. Alan Grant",
@@ -42,8 +54,10 @@ const snakewaterMontana = {
   1. Create a variable called `guestOfHonor` and assign its value to the name of the paleontologist at Snakewater, Montana.
 
   2. Access the value of the specimen found in Snakewater, Montana, and store it in a variable called `cleverGirl`.
+  
+![Nedry](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2Fnm3gZMl.gif&f=1&nofb=1)
 
-### Part 2
+#### Part 2
 ```javascript
 
   const nicaragua = {
@@ -63,8 +77,10 @@ const snakewaterMontana = {
   2. Make a variable called `favoriteSpecimen` and assign its value to your favorite dinosaur within `nicaraguanSpecimens` ( can you do this by referencing the `nicaragua` object itself? )
 
   3. Add 250000 to the annual budget of this site.
+  
+![Butts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpyxis.nymag.com%2Fv1%2Fimgs%2Fe2e%2F373%2F9c3e0cd3af0edb4a7e22a1d0df6b756401-holdontoyourbutts.gif&f=1&nofb=1)
 
-### Part 3
+#### Part 3
 ```javascript
 const hammondsMines = {
   buenos_aires: {
@@ -99,3 +115,7 @@ const hammondsMines = {
 6. Create a new reasonably named variable to track the total annual cost of operation for the mines by adding the previously stored budgets.
 
 7. Access and console log the "Parasaurolophus" specimen.
+
+![Goldblum](https://media4.giphy.com/media/3oD3YQjT2cSZTsy6Va/giphy.gif)
+
+## All done! Great work!
