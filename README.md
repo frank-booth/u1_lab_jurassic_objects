@@ -28,7 +28,7 @@ Create your own JavaScript object representing your favorite movie.
   > }
   > ```
 
-  1. After you have created your movie object, print the title of your movie using `dot notation`
+  1. After you have created your movie object, console log the title of your movie using `dot notation`
   2. Console log the director's name
   3. Console log the release year
   4. Maybe your favorite movie came with an extended director's cut - write a statement that increases your movie object's duration by 25 minutes
