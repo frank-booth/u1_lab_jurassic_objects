@@ -3,35 +3,37 @@
 ![Jurassic Objects](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FhDtZt3aoaTbos%2Fgiphy.gif&f=1&nofb=1)
 
 ## Lab Overview
+
 In this lab, we'll practice using javascript objects by exploring the world of Jurassic Park!
 
 ## Getting Started
-  - Fork and Clone this repository
-  - Open in VSCode
-  - Create a new file called `js-objects-practice.js`. You'll do all your work in this file. Remember, you can test your work by typing `node js-objects-practice.js` in the terminal.
-  
+
+- Fork and Clone this repository
+- Open in VSCode
+- Create a new file called `js-objects-practice.js`. You'll do all your work in this file. Remember, you can test your work by typing `node js-objects-practice.js` in the terminal.
+
 ## Lab Instructions
 
 ### Movie Database (quick warmup)
 
 Create your own JavaScript object representing your favorite movie.
 
-  > Example:
+> Example:
 
-  > ```javascript
-  > const blade = {
-  >   title: 'Blade',
-  >   director: 'Stephen Norrington',
-  >   actors: ['Wesley Snipes', 'Stephen Dorff', 'Kris Kristofferson'],
-  >   releaseYear: 1998,
-  >   duration: 120
-  > }
-  > ```
+> ```javascript
+> const blade = {
+>   title: 'Blade',
+>   director: 'Stephen Norrington',
+>   actors: ['Wesley Snipes', 'Stephen Dorff', 'Kris Kristofferson'],
+>   releaseYear: 1998,
+>   duration: 120
+> }
+> ```
 
-  1. After you have created your movie object, console log the title of your movie using `dot notation`
-  2. Console log the director's name
-  3. Console log the release year
-  4. Maybe your favorite movie came with an extended director's cut - write a statement that increases your movie object's duration by 25 minutes
+1. After you have created your movie object, console log the title of your movie using `dot notation`
+2. Console log the director's name
+3. Console log the release year
+4. Maybe your favorite movie came with an extended director's cut - write a statement that increases your movie object's duration by 25 minutes
 
 ### Hammonds Mines
 
@@ -44,60 +46,57 @@ Copy and paste each of the JavaScript snippets into your JavaScript file.
 ![Grant](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F8iWxnwt5p4vD2%2Fgiphy.gif&f=1&nofb=1)
 
 #### Part 1
+
 ```javascript
 const snakewaterMontana = {
-  paleontologist: "Dr. Alan Grant",
-  depth: "10 meters",
-  specimen: "Velociraptor"
+  paleontologist: 'Dr. Alan Grant',
+  depth: '10 meters',
+  specimen: 'Velociraptor'
 }
 ```
-  1. Create a variable called `guestOfHonor` and assign its value to the name of the paleontologist at Snakewater, Montana.
 
-  2. Access the value of the specimen found in Snakewater, Montana, and store it in a variable called `cleverGirl`.
-  
+1. Create a variable called `guestOfHonor` and assign its value to the name of the paleontologist in `snakewaterMontana`.
+
+2. Access the value of the specimen key found in the `snakewaterMontana` object and store it in a variable called `cleverGirl`.
+
 ![Nedry](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2Fnm3gZMl.gif&f=1&nofb=1)
 
 #### Part 2
+
 ```javascript
-
-  const nicaragua = {
-    depth: "200 meters",
-    annual_budget: 1500000,
-    specimens: [
-      "Tyrannosaurus Rex",
-      "Stegosaurous",
-      "Triceratops",
-      "Velociraptor"
-    ]
-  }
-
+const nicaragua = {
+  depth: '200 meters',
+  annualBudget: 1500000,
+  specimens: [
+    'Tyrannosaurus Rex',
+    'Stegosaurous',
+    'Triceratops',
+    'Velociraptor'
+  ]
+}
 ```
-  1. Store the array of specimens of this site into a variable called `nicaraguanSpecimens`.
 
-  2. Make a variable called `favoriteSpecimen` and assign its value to your favorite dinosaur within `nicaraguanSpecimens` ( can you do this by referencing the `nicaragua` object itself? )
+1. Store the array of specimens of this site into a variable called `nicaraguanSpecimens`.
 
-  3. Add 250000 to the annual budget of this site.
-  
+2. Make a variable called `favoriteSpecimen` and assign its value to your favorite dinosaur within `nicaraguanSpecimens` ( can you do this by referencing the `nicaragua` object itself? )
+
+3. Add 250000 to the annual budget of this site.
+
 ![Butts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpyxis.nymag.com%2Fv1%2Fimgs%2Fe2e%2F373%2F9c3e0cd3af0edb4a7e22a1d0df6b756401-holdontoyourbutts.gif&f=1&nofb=1)
 
 #### Part 3
+
 ```javascript
 const hammondsMines = {
   buenos_aires: {
-    depth: "400 meters",
-    annual_budget: 1000000,
-    specimens: [
-      "Dilophosaurus",
-      "Brachiosaurus"
-    ]
+    depth: '400 meters',
+    annualBudget: 1000000,
+    specimens: ['Dilophosaurus', 'Brachiosaurus']
   },
   mexico: {
-    depth: "350 meters",
-    annual_budget: 900000,
-    specimens: [
-      "Gallimimus",
-      "Parasaurolophus"
-    ]
+    depth: '350 meters',
+    annualBudget: 900000,
+    specimens: ['Gallimimus', 'Parasaurolophus']
   }
 }
 ```
