@@ -118,3 +118,7 @@ const hammondsMines = {
 ![Goldblum](https://media4.giphy.com/media/3oD3YQjT2cSZTsy6Va/giphy.gif)
 
 ## All done! Great work!
+
+# Resources
+
+- [Hahahrawrrahaha](https://youtu.be/wJelEXaPhJ8)
