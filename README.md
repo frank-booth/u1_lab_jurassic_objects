@@ -10,7 +10,7 @@ In this lab, we'll practice using javascript objects by exploring the world of J
 
 - Fork and Clone this repository
 - Open in VSCode
-- Create a new file called `js-objects-practice.js`. You'll do all your work in this file. Remember, you can test your work by typing `node js-objects-practice.js` in the terminal.
+- Create a new file called `script.js`. You'll do all your work in this file. Remember, you can test your work by typing `node script.js` in the terminal.
 
 ## Lab Instructions
 
