@@ -21,13 +21,15 @@ Create your own JavaScript object representing your favorite movie.
 > Example:
 
 > ```javascript
-> const blade = {
->   title: 'Blade',
->   director: 'Stephen Norrington',
->   actors: ['Wesley Snipes', 'Stephen Dorff', 'Kris Kristofferson'],
->   releaseYear: 1998,
->   duration: 120
+> 
+> const jurassicPark = {
+>   title: 'Jurassic Park',
+>   director: 'Stephen Spielberg',
+>   actors: ['Sam Neill', 'Laura Dern', 'Jeff Goldblum', 'Samuel L. Jackson],
+>   releaseYear: 1993,
+>   duration: 128
 > }
+> 
 > ```
 
 1. After you have created your movie object, console log the title of your movie using `dot notation`
