@@ -22,7 +22,7 @@ Create your own JavaScript object representing your favorite movie.
 
 > ```javascript
 > 
-> const jurassicPark = {
+> const myMovie = {
 >   title: 'Jurassic Park',
 >   director: 'Stephen Spielberg',
 >   actors: ['Sam Neill', 'Laura Dern', 'Jeff Goldblum', 'Samuel L. Jackson],
