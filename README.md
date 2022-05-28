@@ -116,7 +116,7 @@ const jurassicPark = {
     security: 'Robert Muldoon',
     scientist: 'Dr. Henry Wu'
   },
-  guests: ['Dr. Alan Grant', 'Dr. Ellie Satler', 'Dr. Ian Malcolm', 'Donald Gennaro'],
+  guests: ['Dr. Alan Grant', 'Dr. Ellie Sattler', 'Dr. Ian Malcolm', 'Donald Gennaro'],
   systems: [
     {
       area: 'Perimeter Fence',
