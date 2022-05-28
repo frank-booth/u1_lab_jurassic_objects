@@ -116,7 +116,7 @@ const jurassicPark = {
     security: 'Robert Muldoon',
     scientist: 'Dr. Henry Wu'
   },
-  guests: ['Dr. Alan Grant', 'Dr. Ellie Satler', 'Dr. Ian Malcolm', 'Donald Gennaro'],
+  guests: ['Dr. Alan Grant', 'Dr. Ellie Sattler', 'Dr. Ian Malcolm', 'Donald Gennaro'],
   systems: [
     {
       area: 'Perimeter Fence',
@@ -162,7 +162,7 @@ const jurassicPark = {
 
 7. Well, when you gotta go, you gotta go. Remove "Donald Gennaro" from the list of guests. You could assign his specific index in the array an empty value, or you could look into [.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice).
 
-8. Looks like the "Velociraptor Pen" has gone offline too! Update it's `online` value to `false` and remove "Robert Muldoon" from the staff object.
+8. Looks like the "Velociraptor Pen" has gone offline too! Clever girl... Update it's `online` value to `false` and remove "Robert Muldoon" from the staff object.
 
 9. Hold on to your butts. Sadly, remove "John Arnold" from the staff object. He wasn't able to get the systems back online.
 
